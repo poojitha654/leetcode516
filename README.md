@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/poojitha654/leetcode516/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/poojitha654/leetcode516/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/poojitha654/leetcode516/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/poojitha654/leetcode516/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/poojitha654/leetcode516/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/poojitha654/leetcode516/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
