@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/poojitha654/leetcode516/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojitha654/leetcode516/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/poojitha654/leetcode516/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/poojitha654/leetcode516/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poojitha654/leetcode516/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/poojitha654/leetcode516/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
